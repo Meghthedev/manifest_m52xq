@@ -1,0 +1,21 @@
+<manifest>
+
+<remote name="trees" 
+        fetch="https://github.com/paulowesll" />
+
+  
+<!-- Device Trees -->
+
+<project path="device/samsung/m52xq" name="android_device_samsung_m52xq" revision="main" remote="trees" />
+
+<project path="device/samsung/sm7325-common" name="android_device_samsung_sm7325-common" revision="lineage-19.1-test" remote="trees" />
+
+<!-- Vendor trees -->
+
+<project path="device/samsung" name="android_vendor_samsung_sm7325-common" revision="main" remote="trees" /> 
+
+<!-- Kernel tree -->
+
+<project path="kernel/samsung/m52xq" name="android_kernel_samsung_m52xq" revision="12" remote="trees" />
+
+</manifest>
