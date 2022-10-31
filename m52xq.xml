@@ -16,6 +16,6 @@
 
 <!-- Kernel tree -->
 
-<project path="kernel/samsung/m52xq" name="android_kernel_samsung_m52xq" revision="12" remote="trees" />
+<project path="kernel/samsung/m52xq" name="BlackMesa123/android_kernel_samsung_sm7325" revision="12" remote="github" />
 
 </manifest>
