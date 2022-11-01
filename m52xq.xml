@@ -12,7 +12,7 @@
 
 <!-- Vendor trees -->
 
-<project path="device/samsung" name="android_vendor_samsung_sm7325-common" revision="main" remote="trees" /> 
+<project path="vendor/samsung" name="android_vendor_samsung_sm7325-common" revision="main" remote="trees" /> 
 
 <!-- Kernel tree -->
 
